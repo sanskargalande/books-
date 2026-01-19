@@ -42,7 +42,7 @@
 </header>
 
 <div class="container">
-
+<img src="atomic.jpg.jpeg" width="150">
   <div class="book">
     <h2>Atomic Habits</h2>
     <p>Price: ₹299</p>

@@ -44,7 +44,7 @@
 <div class="container">
 <img src="atomic.jpg.jpeg" width="150">
   <div class="book">
-    <h2>Atomic Habits</h2>
+    <h2>छत्रपती शिवराय समजून घेताना</h2>
     <p>Price: ₹299</p>
     <a class="buy" href="https://wa.me/91XXXXXXXXXX?text=I%20want%20to%20buy%20Atomic%20Habits">Buy on WhatsApp</a>
   </div>

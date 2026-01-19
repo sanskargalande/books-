@@ -1,18 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>My First Website</title>
-</head>
-<body>
-  <h1>Welcome to my website</h1>
-  <p>This is my first website on GitHub Pages</p>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Book Store</title>
-  <style>
+
     body {
       font-family: Arial;
       background: #f5f5f5;
